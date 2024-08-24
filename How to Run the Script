@@ -1,24 +1,25 @@
-How to Run the Script
+#How to Run the Script
 
-Prerequisites:
-Ensure that Python is installed on your system.
-Install the required libraries
+#Prerequisites:
+1.Ensure that Python is installed on your system.
+2.Install the required libraries
 
-Steps to Run:
+#Steps to Run:
 
-Copy the Script: Copy the provided script into a Python file, e.g., scrape_courses.py.
+1.Copy the Script: Copy the provided script into a Python file, e.g., scrape_courses.py.
 
-Run the Script:
+2.Run the Script:
 
-Open a terminal or command prompt.
-Navigate to the directory where your Python file is saved.
-Run the script using the following command:
+-Open a terminal or command prompt.
+-Navigate to the directory where your Python file is saved.
+-Run the script using the following command:
 python scrape_courses.py
-Output:
+
+3.Output:
 Once the script finishes executing, an Excel file named courses_data.xlsx will be created in the same directory. This file contains the scraped data in a tabular format.
 
 
-Sample Data Output
+#Sample Data Output
 The courses_data.xlsx file will have the following columns:
 
 URL
